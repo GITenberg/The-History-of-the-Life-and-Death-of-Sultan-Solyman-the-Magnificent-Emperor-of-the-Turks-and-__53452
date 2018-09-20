@@ -1,0 +1,26 @@
+_repo: The-History-of-the-Life-and-Death-of-Sultan-Solyman-the-Magnificent-Emperor-of-the-Turks-and-__53452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2016-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53452'
+  lccn: '25025334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Süleyman I, Sultan of the Turks, 1494 or 1495-1566'
+- !lcc 'DR'
+- !lcsh 'Turkey -- History -- Süleyman I, 1520-1566'
+- GITenberg
+title: The History of the Life and Death of Sultan Solyman the Magnificent, Emperor
+  of the Turks, and of His son Mustapha
+url: http://www.gutenberg.org/ebooks/53452
